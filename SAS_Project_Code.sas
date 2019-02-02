@@ -12,7 +12,7 @@
 	By task:     Import Data Wizard
    
 	Source file:
-	C:\Users\rdy2d\OneDrive\Documents\Education\Matthew\National
+	C:\..\Documents\Education\Matthew\National
  	University\ANA625\Project\ANA625.accdb
 	Server:      Local File System
    
