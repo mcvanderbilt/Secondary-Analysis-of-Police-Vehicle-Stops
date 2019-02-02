@@ -7,11 +7,9 @@ San Diego is the eight-largest city in the United States, with its current popul
 ##Conclusion
 This model contains statistically-significant variables, does not include confounders or have issues with multicollinearity, and has a fairly-good c-statistics. It indicates the statistical association between race and police actions at traffic stops, resulting in increase risk of action for individuals racially identified as Black over White. While additional data is necessary to provide a stronger model and gain greater insight into each incident, this does provide a troubling statistic. Whether associated with negative bias towards Black members of the community, positive bias towards other races, or an underlying cultural disconnect and inherent inequality, such statistics highlight the need for additional analysis. “The American Anthropological Association recommends the elimination of the term ‘race’…as [it] has been scientifically proven to not be a real, natural phenomenon… Yet the concept of race has become thoroughly – and perniciously – woven into the cultural and political fabric of the United States… [T]hese classifications must be transcended and replaced by more non-racist and accurate ways of representing the diversity of the U.S. population.”[2](https://statisticalatlas.com/place/California/San-Diego/Race-and-Ethnicity) As one of the safest metropolitan areas in the United States, with a police department focused on neighborhood partnerships rather than reactionary policing, gaining additional insight into these statistics and real-time monitoring of associated risk trends, could identify outreach and training opportunities that could fundamentally change racial dynamics within the city
 
-## Getting Started
-### Prerequisites
+## Prerequisites
 [Police Vehicle Stops dataset](https://data.sandiego.gov/datasets/police-vehicle-stops/)
 
-### Installing
 ## Built With
 * [SAS Enterprise Guide](https://www.sas.com/en_us/software/enterprise-guide.html) - Statistical analysis
 * [Microsoft Access](https://products.office.com/en-us/access) - Data cleanup and preparation
