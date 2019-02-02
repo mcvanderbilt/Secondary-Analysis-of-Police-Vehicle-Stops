@@ -1,0 +1,2 @@
+DELETE searchDetailsTypeValue.*
+FROM searchDetailsTypeValue;

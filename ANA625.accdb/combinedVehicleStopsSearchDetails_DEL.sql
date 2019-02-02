@@ -1,0 +1,2 @@
+DELETE combinedVehicleStopsSearchDetails.*
+FROM combinedVehicleStopsSearchDetails;

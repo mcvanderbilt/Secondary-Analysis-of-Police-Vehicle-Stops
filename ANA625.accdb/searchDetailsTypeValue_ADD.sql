@@ -1,0 +1,5 @@
+INSERT INTO searchDetailsTypeValue ( search_details_type, search_details_value )
+SELECT combinedVehicleStopsSearchDetails.search_details_type, CLng(1) AS search_details_value
+FROM combinedVehicleStopsSearchDetails
+GROUP BY combinedVehicleStopsSearchDetails.search_details_type, CLng(1)
+ORDER BY combinedVehicleStopsSearchDetails.search_details_type;

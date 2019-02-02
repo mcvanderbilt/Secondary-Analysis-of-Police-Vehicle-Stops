@@ -1,0 +1,4 @@
+SELECT combinedVehicleStopsSearchDetails.search_details_type, Count(combinedVehicleStopsSearchDetails.stop_id) AS CountOfstop_id
+FROM combinedVehicleStopsSearchDetails
+GROUP BY combinedVehicleStopsSearchDetails.search_details_type
+ORDER BY Count(combinedVehicleStopsSearchDetails.stop_id) DESC;

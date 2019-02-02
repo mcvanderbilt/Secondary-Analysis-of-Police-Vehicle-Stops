@@ -1,0 +1,1 @@
+UPDATE combinedVehicleStopsSearchDetails_Flat SET combinedVehicleStopsSearchDetails_Flat.search_details_type_flat = CONCATRELATED('search_details_type','combinedVehicleStopsSearchDetails_GroupedTypes','[stop_id] = ' & [stop_id]);
