@@ -11,8 +11,8 @@ Specified error handling procedures on SQL Server preferred.
 ## Built With
 * [SAS Enterprise Guide](https://www.sas.com/en_us/software/enterprise-guide.html) - Statistical analysis
 * [Microsoft Access](https://products.office.com/en-us/access) - Data cleanup and preparation
--* [Microsoft Visual Studio for Applications(VBA)](https://docs.microsoft.com/en-us/office/vba/api/overview/) - Custom data-manipulation function
--* [Structured Query Language(SQL)](https://docs.microsoft.com/en-us/office/client-developer/access/desktop-database-reference/microsoft-access-sql-reference) - Custom data-manipulation queries
+  * [Microsoft Visual Studio for Applications(VBA)](https://docs.microsoft.com/en-us/office/vba/api/overview/) - Custom data-manipulation function
+  * [Structured Query Language(SQL)](https://docs.microsoft.com/en-us/office/client-developer/access/desktop-database-reference/microsoft-access-sql-reference) - Custom data-manipulation queries
 
 ## Author(s)
 * **Matthew C. Vanderbilt** - *Initial work* - [rdy2dve](https://github.com/rdy2dve)
