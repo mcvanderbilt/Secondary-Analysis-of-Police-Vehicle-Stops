@@ -28,4 +28,4 @@ This code is licensed under GNU General Public License Version 3 - see the [LICE
 * **Tyler Smith, MS, PhD** - National University Professor and Chair for the Department of Community Health within the School of Health and Human Services - [LinkedIn](https://www.linkedin.com/in/tyler-smith-ms-phd-6b610119/)
 * **Allen Browne** - *Custom VBA function to concatenate values from related records* - [ConcatRelated](http://allenbrowne.com/func-concat.html)
 * **City of San Diego** and **San Diego Police Department** for providing data to the public under Open Data Commons Public Domain Dedication and Licence (PDDL).
-* Other references as shown in the [final report](https://github.com/rdy2dve/Secondary-Analysis-of-Police-Vehicle-Stops/blob/master/Final_Report.pdf)
+* Other references as shown in the [final report](https://www.scribd.com/document/379088814/SDPD-Traffic-Police-Action-Race-Secondary-Analysis-of-Police-Vehicle-Stops)
